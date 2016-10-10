@@ -1,0 +1,6 @@
+c:\users\j\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\WebTemplate.dll.config
+c:\users\j\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\WebTemplate.dll
+c:\users\j\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\WebTemplate.pdb
+c:\users\j\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.dll
+c:\users\j\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.pdb
